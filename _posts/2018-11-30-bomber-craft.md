@@ -16,4 +16,4 @@ The core loop of the game is similar to the classic Bomberman but in order to us
 
 I ended up spending most of my time trying to get the multiplayer aspects working and the game was never really finished but latest build is playable apart from couple multiplayer sync related bugs.
 
-[Download](\assets\games\bomber-craft\BomberCraft.zip){: .btn .btn--info}
+[Download](https://www.dropbox.com/s/drvvngl9tr3k1so/BomberCraft.zip?dl=0){: .btn .btn--info}
